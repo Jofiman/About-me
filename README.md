@@ -1,6 +1,4 @@
-# StartProject
-
-This is my first github project
+# About me
 
  Hello, my name is Jovan Poplasen and i'm Front End Developer based in the Belgrade. Working Worldwide with Startups and Agencies.
  
